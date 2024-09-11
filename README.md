@@ -4,7 +4,7 @@
 - 👀 I’m interested in Full Stack - BackEnd & FrontEnd Projects
 - 🌱 I’m currently learning SQL in Data Analysis 
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me via LinkedIn <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" class="w-1 h-1 sm:w-1 sm:h-1 mr-1 sm:mr-4" alt="linkedin"> https://www.linkedin.com/in/fatmanur-jackiewicz-433603253/ / 📫 E-mail: fatmanurjackiewicz@gmail.com
+- 📫 How to reach me via LinkedIn: https://www.linkedin.com/in/fatmanur-jackiewicz-433603253/ / 📫 E-mail: fatmanurjackiewicz@gmail.com
 - 😄 Ask me about C#,JavaScript, HTML, CSS, C++, ASP.NET Core Web API, ASP.NET Core MVC and Entity Framework Core⚡
 
 <h3 align="left">Technologies:</h3>
