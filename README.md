@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @FatmanurJackiewicz
+<h1 align="center">👋 Hey, I’m @FatmanurJackiewicz</h1>
+<h3 align="center">FullStack Developer Candidate</h3>
+
 - 👀 I’m interested in Full Stack - BackEnd & FrontEnd Projects
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Projects
