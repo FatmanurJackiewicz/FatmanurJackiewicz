@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey, I’m @FatmanurJackiewicz</h1>
 <h3 align="center"> FullStack Developer & Data Analyst Candidate</h3>
 
-- 👀 I’m interested in Full Stack - BackEnd & FrontEnd Projects
-- 🌱 I’m currently learning SQL in Data Analysis 
+- 👀 I’m interested in Full Stack - BackEnd & FrontEnd Projects &  Data Analysis Projects
+- 🌱 I’m currently learning SQL, Phyton, Excel in Data Analysis 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me via:
    LinkedIn: https://www.linkedin.com/in/fatmanur-jackiewicz-433603253/
